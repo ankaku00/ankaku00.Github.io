@@ -15,7 +15,7 @@
 
 ---
 #### [External Link Project](https://ashleykakudatanalytics.weebly.com/)
-[<img src="images/order-food-on-your-hand-1_orig?raw=true"/>](https://ashleykakudatanalytics.weebly.com/)
+[<img src="images/order-food-on-your-hand-1_orig.png?raw=true"/>](https://ashleykakudatanalytics.weebly.com/)
 
 
 
