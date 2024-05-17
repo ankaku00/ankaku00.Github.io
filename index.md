@@ -4,12 +4,12 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
-
+#### [Analyzing Food and Grocery Delivery Throughout the Year](/sample_project)
+<img src="images/order-food-on-your-hand-1_orig.png?raw=true"/>
 
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
+#### [Linked File Project](/files/DoorDash_Case_Study.xlsx)
 
 
 
