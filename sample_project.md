@@ -41,7 +41,22 @@ Using the sum function in Excel, the total money spent through "DoorDash" was $1
 <img src="images/Age Demographic.png?raw=true"/>
 Comparing the ages of the consumers, the bar chart above shows most of the customers are between the ages of 36 to 65. Comparing the ages of the consumers, the bar chart above shows most of the customers are between the ages of 36 to 65.
 
-<img src="images/Customer Education Level.png?raw=true"/>
+<img src="images/Education Demographic.png?raw=true"/>
 About 51% of the consumers have a bachelor's degree and another 25% have a PhD or Masters for their highest education. ​Focusing on the average income by age group, the following bar chart is generated:
 
 <img src="images/Average income by age group.png?raw=true"/>
+At first glance, there isn't much difference between age groups. The bar chart shows the older the consumer, the more money they earn. Utilizing the data shown in the scatter plot below, it is shown that there is a direct correlation between money earned and the amount spent on products. Looking at the amount spent based on the highest education level, the following chart is shown:
+<img src="images/amnt spent by education.png?raw=true"/>
+The chart shows that there is on average about a $100 difference of money spent between a consumer's education level. Wondering why this is happening, the following bar chart was generated:
+<img src="images/Average income by efducation.png?raw=true"/>
+From this bar chart, a consumer with a Ph.D. level education earns about $54,000, while a person with a high school diploma earns about $48,000. From this difference in income, it can be seen there is a correlation between income and money spent. The following scatter plot confirms this thought, by showing a direct correlation between income and money spent.
+
+<img src="images/Income vs Total Spent Scatter Plot.png?raw=true"/>
+
+### Main Takeaways
+From this analysis, the following conclusions were made:
+Consumers spend the most money on wine and meat products
+Most of the company's consumers are between the ages of 36-65
+Most of the company's consumer's highest level of education is a bachelor's degree
+There is a direct correlation between the income of the consumer and the money spent by the consumer
+One way the company can use this analysis is by creating a campaign or sale for less popular products like fruit, sweets, and fish to encourage consumers to spend more money on other products. Another way would be to create a campaign aimed at consumers who earn a higher income.
