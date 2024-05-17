@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-#### [Analyzing Food and Grocery Delivery Throughout the Year](/sample_project)
+#### [Analyzing Food and Grocery Delivery Throughout the Year](/sample_project.md)
 <img src="images/order-food-on-your-hand-1_orig.png?raw=true"/>
 
 
