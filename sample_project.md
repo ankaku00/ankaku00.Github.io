@@ -1,6 +1,6 @@
-## This can be a template for an internal prject
+## Analyzing Food and Grocery Delivery Throughout the Year
 
-**Project description:** Analyzing Food and Grocery Delivery Throughout the Year
+**Project description:** 
 
 
 ### 1. You can have sections and text.
