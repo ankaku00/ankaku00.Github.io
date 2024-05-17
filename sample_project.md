@@ -1,5 +1,5 @@
 ## Analyzing Food and Grocery Delivery Throughout the Year
-<img src="order-food-on-your-hand-1_orig.png?raw=true"/>
+<img src="images/order-food-on-your-hand-1_orig.png?raw=true"/>
 
 As part of my first step towards a career in data analysis, I joined a data analytics accelerator boot camp. The first project introduced in this course was on a data set for a company similar to DoorDash that was modified for this program. This project made me wonder questions, like "What products bring in the most profit?", "Who are their main consumers?", and "Are there any noticeable trends from their campaigns?".Utilizing Excel and the data set given in the course, I was able to answer these questions and learn how the company sales and demographics work. From my analysis, I was able to find:
 76% of consumers are aged 36-65
