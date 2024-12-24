@@ -29,10 +29,10 @@ Some important columns to look at are:
 - AcceptedCmp6: Did The Customer Accept Offer in 6th Campaign
 - Age Group
 - education_Graduation: Is the customer's highest education level undergraduate?
--education_Master: Is the customer's highest education level Master's?
--education_PHD: Is the customer's highest education level a PhD?
--education_2n Cycle: Is the customer’s highest education high school?
--Each row represents a customer.
+- education_Master: Is the customer's highest education level Master's?
+- education_PHD: Is the customer's highest education level a PhD?
+- education_2n Cycle: Is the customer’s highest education high school?
+- Each row represents a customer.
 
 ### The Analysis
 <img src="images/Money Spent by Product.png?raw=true"/>
@@ -55,8 +55,8 @@ From this bar chart, a consumer with a Ph.D. level education earns about $54,000
 
 ### Main Takeaways
 From this analysis, the following conclusions were made:
-Consumers spend the most money on wine and meat products
-Most of the company's consumers are between the ages of 36-65
-Most of the company's consumer's highest level of education is a bachelor's degree
-There is a direct correlation between the income of the consumer and the money spent by the consumer
+- Consumers spend the most money on wine and meat products
+- Most of the company's consumers are between the ages of 36-65
+- Most of the company's consumer's highest level of education is a bachelor's degree
+- There is a direct correlation between the income of the consumer and the money spent by the consumer
 One way the company can use this analysis is by creating a campaign or sale for less popular products like fruit, sweets, and fish to encourage consumers to spend more money on other products. Another way would be to create a campaign aimed at consumers who earn a higher income.
