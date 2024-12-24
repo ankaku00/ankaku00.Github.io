@@ -59,4 +59,5 @@ From this analysis, the following conclusions were made:
 - Most of the company's consumers are between the ages of 36-65
 - Most of the company's consumer's highest level of education is a bachelor's degree
 - There is a direct correlation between the income of the consumer and the money spent by the consumer
+
 One way the company can use this analysis is by creating a campaign or sale for less popular products like fruit, sweets, and fish to encourage consumers to spend more money on other products. Another way would be to create a campaign aimed at consumers who earn a higher income.
