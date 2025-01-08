@@ -7,7 +7,7 @@
 #### [Analyzing Food and Grocery Delivery Throughout the Year](/sample_project.md)
 <img src="images/order-food-on-your-hand-1_orig.png?raw=true"/>
 #### [Massachusetts Education Overview](/mass overview.md)
-<img src="images/massachusetts.png?raw=true"/>
+<img src="images/Massachusetts.png?raw=true"/>
 ---
 #### [Linked Files](/files/DoorDash_Case_Study.xlsx)
 
